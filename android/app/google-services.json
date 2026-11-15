@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081627402314",
+    "project_id": "proxy-finder-e7490",
+    "storage_bucket": "proxy-finder-e7490.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081627402314:android:1a628f9965fa9f5881c6b3",
+        "android_client_info": {
+          "package_name": "com.example.proxy_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJbA4AX8KQtXbMspTyMnywGSpzpOjE04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
